@@ -9,7 +9,7 @@ The EESP workshop aims to foster the exchange of innovative strategies, tools, a
 - **Submission Deadline**: February 20, 2025 (extended: March 1, 2025)
 - **Notification**: March 28, 2025
 - **Camera-Ready Deadline**: April 30, 2025
-- **Workshop Date**: June 10, 2025
+- **Workshop Date**: June 13, 2025
 - **Location**: Hamburg, Germany
 - **Website**: [eesp.github.io](https://eesp.github.io/)
 
