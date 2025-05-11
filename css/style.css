@@ -89,3 +89,20 @@ footer {
     font-size: 1.1em;
 }
 
+.session {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+.blue { background-color: #d0e7ff; }
+.green { background-color: #d7f7d7; }
+.yellow { background-color: #fffac8; }
+.orange { background-color: #ffe0b3; }
+.time-block {
+  margin: 5px 0;
+}
+.bold {
+  font-weight: bold;
+}
+
+
