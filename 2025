@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EESP Workshop 2025</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+<header style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1; text-align: left;">
+        <img src="assets/eesp-logo.jpg" alt="EESP Workshop Logo" style="height: 150px; width: auto; flex-shrink: 0;">
+    </div>
+    <div style="text-align: center; flex-grow: 2;">
+        <h1>EESP Workshop 2025</h1>
+        <p>Energy Efficiency with Sustainable Performance: Techniques, Tools, and Best Practices</p>
+        <p>June 13, 2025, 9 am -- 1 pm, Hamburg, Germany</p>
+        <p>In conjunction with <a href="https://www.isc-hpc.com/" target="_blank" style="color: inherit; text-decoration: none;">ISC High Performance 2025</a></p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <a href="https://www.isc-hpc.com/" target="_blank">
+            <img src="assets/isc-logo.png" alt="ISC High Performance 2025 Logo" style="height: 125px; width: auto; vertical-align: middle;">
+        </a>
+    </div>
+</header>
+
+
+    <main>
+        <div style="display: flex;">
+            <div style="flex: 3;">
+                <section id="objective">
+                    <h2>Workshop Objective</h2>
+                    <p>The EESP workshop fosters the exchange of innovative strategies, tools, and best practices to enhance energy efficiency in computing environments. Amid rising energy costs and ambitious sustainability goals, optimizing energy use is critical for managing computing infrastructure. The workshop focuses on balancing performance, energy and power consumption, and sustainability, offering practical guidance for exascale, Tier-1, and Tier-2 centers. Attendees will gain insights into greener, cost-effective practices to drive sustainability. Aligned with Sustainable Development Goals, EESP bridges HPC and AI communities, empowering operators to help users make energy-conscious decisions. It highlights sustained performance over peak performance for future competitiveness.</p>
+                </section>
+
+                <section id="scope">
+                    <h2>Workshop Scope</h2>
+                    <p>EESP invites academia, supercomputing centers, industry, and policymakers to collaborate on advancing energy-efficient practices. Topics include software development, hardware design, and energy-efficient practices across various computing environments such as HPC clusters, data centers, and cloud infrastructure. Energy efficiency is a growing challenge, particularly for Tier-2 centers with limited resources. This workshop fosters dialogue between Tier-0/1 and Tier-2 centers to adapt Tier-0/1 innovations for constrained budgets. It targets financial and technical solutions applicable to HPC clusters, data centers, and cloud infrastructures globally.</p>
+                </section>
+
+                <section id="topics">
+                    <h2>Topics of Interest</h2>
+                    <p>The workshop aims to benefit the broader community by sharing use cases, lessons learned, and best practices through descriptive papers. We solicit papers which encompass the following topics of interest, but are not limited to:</p>
+                    <ul>
+                        <li>Energy efficiency analysis in computing environments</li>
+                        <li>Energy-aware software optimization techniques for HPC & AI</li>
+                        <li>Energy-efficient hardware architectures and practices for HPC & AI</li>
+                        <li>Energy-efficient scheduling and resource management</li>
+                        <li>Energy-efficient data center administration and operation</li>
+                        <li>Metrics for energy-efficient sustainable performance</li>
+                        <li>Cluster-wide energy benchmarking with continuous regression analysis</li>
+                        <li>Energy modeling, measurement and behavioral insights for CPUs and GPUs</li>
+                        <li>Tools for power and energy monitoring, management and control</li>
+                        <li>Renewable energy sources for HPC systems</li>
+                        <li>Emerging trends and future challenges in energy consumption (e.g., AI and machine learning workloads)</li>
+                    </ul>
+                </section>
+
+                <section id="cfp">
+                    <h2>Call for Papers</h2>
+                    <p>The EESP Workshop 2025 invites submissions of research papers focused on energy efficiency and sustainable performance in high-performance computing and artificial intelligence.</p>
+                    <ul>
+                        <li><strong>Submission Guidelines</strong>
+                            <ul>
+                                <li>Papers should be either <strong>short</strong> (work-in-progress, 6 pages) or <strong>regular</strong> (12 pages), including references and appendices.</li>
+                                <li>Submitted papers must be original and not previously published or under review for any other conference or journal.</li>
+                                <li>Use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank">Springer Lecture Notes in Computer Science (LNCS) template</a>.</li>
+                                <li>Submit papers in PDF format through the EasyChair submission system at <a href="https://easychair.org/conferences?conf=eesp25" target="_blank">https://easychair.org/conferences?conf=eesp25</a>.</li>
+                            </ul>
+                        </li>
+                        <li><strong>Review Process</strong>
+                            <ul>
+                                <li>Each submission will undergo a minimum of three single-blind peer reviews.</li>
+                                <li>Review criteria include originality, technical soundness, impact, and quality of presentation.</li>
+                            </ul>
+                        </li>
+                        <li><strong>Post-Submission</strong>
+                            <ul>
+                                <li>Accepted papers will be published as part of the <strong>ISC proceedings in the Springer LNCS series</strong>.</li>
+                                <li>There is an option for submitting <strong>two additional pages</strong> after the review to address reviewer feedback.</li>
+				<li>One author must present the accepted paper in person and <a href="https://isc-hpc.com/attendance/registration" target="_blank">register for the ISC 'Workshop Pass.'</a></li>
+				<li>The <strong>Best Paper Award</strong> will be presented in person at the workshop.</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+
+<section id="schedule">
+    <h2>Workshop Program Schedule</h2>
+    <p style="font-style: italic;">Location: Hall X3 - 1st floor</p>
+
+	<div class="time-block" style="background-color: #f0f8ff; border-left: 5px solid #005f73; padding: 10px; border-radius: 6px;">
+    <span class="bold">9:00 a.m. – 9:05 a.m.</span> — <strong>Welcome remarks & Best Paper announcement</strong>
+    <p>General chair: <a href="https://app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzc5MzAzNjM=" target="_blank">Ayesha Afzal</a></p>	
+    <p>Institution: Erlangen National High Performance Computing Center (NHR@FAU)</p>
+    <p><a href="assets/ISC_EESP_workshop_2025.pdf">[Presentation slides]</a></p>
+    </div>
+    <div class="session blue">
+        <h3>🟦 Session 1: Keynote and Best Paper Presentation</h3>
+        <p><span style="color: #005f73;"> <a href="https://app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzc5MzAzNjM=" target="_blank">Session chair: Ayesha Afzal - Erlangen National High Performance Computing Center (NHR@FAU), Geramny</a></span></p>
+        <ul>
+            <li><span class="bold">9:05 a.m. – 9:40 a.m.</span> — Keynote speech with Q&A, <em>"Codesign for Energy Efficient Computing"</em>; visit <a href="index.html#program">here</a> for more information.</li>
+		<p>Keynote speaker: <a href="https://app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzc5MzAzMDk=" target="_blank"> John Shalf</a> </p>	
+		<p>Institution: Lawrence Berkeley National Laboratory (LBNL)</p>
+		<p><a href="assets/EnergyEffficientComputing-ISC-EEHPC-2025.pdf">[Presentation slides]</a></p>
+            <li><span class="bold">9:40 a.m. – 10:00 a.m.</span> — Best Paper talk with Q&A, <em>"What A Waste"</em> </li>
+								<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzkxMTk1MDk=" target="_blank"> Shaina Smith</a>, Jordan M. Abt, and Ryan E. Grant </p>
+		 <p>Institution: Queen's university</p>
+					    <p><a href="assets/ISCPaperPresentation.pdf">[Presentation slides]</a></p>
+        </ul>
+    </div>
+
+    <div class="session green">
+        <h3>🟩 Session 2: Energy-Efficient GPU Computing</h3> 
+        <p><span style="color: #005f73;"> <a href="https://app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzgzMzY2MDI=" target="_blank">Session chair: Zhengji Zhao - Lawrence Berkeley National Laboratory (NERSC), USA</a></span></p>
+        <ul>
+            <li><span class="bold">10:00 a.m. – 10:20 a.m.</span> — <em>"Experience on clock rate adjustment for energy-efficient GPU-accelerated real-world codes"</em> </li>
+						<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzkxMDY2NTk=" target="_blank"> Giorgio Amati</a>, Matteo Turisini, Andrea Monterubbiano, Mattia Paladino, Elisabetta Boella, Daniele Gregori, and Danilo Croce </p>
+				 <p>Institutions: [1] CINECA, Rome, Italy [2] E4 Computer Engineering SpA, Scandiano, Italy [3] Tor Vergata University, Rome, Italy </p>
+		<p><a href="assets/EESP2025-Amati.pdf">[Presentation slides]</a></p>
+            <li><span class="bold">10:20 a.m. – 10:40 a.m.</span> — <em>"Characterizing GPU Energy Usage in Exascale-Ready Portable Science Applications"</em> </li>
+						<p>Authors: William Godoy, Oscar Hernandez, Paul Kent, <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzk3MTE1OTE=" target="_blank"> Maria Patrou</a>, Kazi Asifuzzaman, Narasinga Miniskar, Pedro Valero-Lara, Jeffrey Vetter, Matthew Sinclair, Jason Lowe-Power, and Bobby Bruce </p>
+				 <p>Institutions: [1] Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA [2] University of Wisconsin-Madison, Madison, Wisconsin, USA [3] University of California Davis, Davis, California, USA </p>
+		<p><a href="assets/ISC25-EESP-GPU-Energy-Apps_final.pdf">[Presentation slides]</a></p>
+        </ul>
+    </div>
+
+    <div class="session yellow">
+        <h3>🟨 Session 3: System-Level Strategies for Energy-Efficient Computing</h3>
+        <p><span style="color: #005f73;"> <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzc5MzAzMTQ=" target="_blank"> Session chair: Hatem Ltaief - King Abdullah University of Science and Technology, Saudi Arabia</a></span></p>
+        <ul>
+            <li><span class="bold">10:40 a.m. – 11:00 a.m.</span> — <em>"Running Energy-Efficient HPL on APUs: Strategies and Best Practices"</em> </li>
+				<p>Authors: Jean-Yves Vet and <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzgwMTgwNTI=" target="_blank"> Gabriel Hautreux </a>  </p>
+						 <p>Institutions: [1] HPE [2] CINES </p>
+				<p><a href="assets/EESP_ISC25_Energy_Efficient_MI300_Strategies_Vet_Hautreux.pdf">[Presentation slides]</a></p>
+            <li><span class="bold">11:00 a.m. – 11:30 a.m.</span> — Coffee Break</li>
+						 <p></p>		
+            <li><span class="bold">11:30 a.m. – 11:50 a.m.</span> — <em>"DARE-ML: Democratized Accessible Resource Environment for Machine Learning in the SUPERCOM platform"</em> </li>
+		<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzk3MTE1OTA=" target="_blank"> Matteo Mendula</a>, Caterina Leonelli, Marco Miozzo, and Paolo Dini </p>
+				 <p>Institutions: [1] Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) [2] University of Bologna </p>
+		<p><a href="assets/DARE-MLv2.pdf">[Presentation slides]</a></p>
+        </ul>
+    </div>
+
+    <div class="session orange">
+        <h3>🟧 Session 4: Power Profiling and Energy Tuning Techniques</h3>
+        <p><span style="color: #005f73;"> <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzc5MzAzNTQ=" target="_blank">Session chair: Fumiyoshi Shoji - RIKEN Center for Computational Science (R-CCS), Japan</a></span></p>
+        <ul>
+            <li><span class="bold">11:50 a.m. – 12:10 p.m.</span> — <em>"Pinpointing Idle-Power Regressions in Linux"</em> </li>
+							<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzkzNjY4MDc=" target="_blank"> Hannes Tröpgen</a>, Till Smejkal, Thomas Ilsche, Robert Schöne, and Horst Schirmeier </p>
+					 <p>Institutions: [1] ZIH, CIDS, TU Dresden [2] Chair of Operating Systems, Faculty of CS, TU Dresden </p>
+					 <p><a href="assets/presentation_eesp_linux_bisection.pdf">[Presentation slides]</a></p>
+            <li><span class="bold">12:10 p.m. – 12:30 p.m.</span> — <em>"Power-Capping Metric Evaluation for Improving Energy Efficiency in HPC Applications"</em> </li>
+					<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzk3MTE1OTE=" target="_blank"> Maria Patrou</a>, Thomas Wang, Wael Elwasif, Markus Eisenbach, Ross Miller, Oscar Hernandez, and William Godoy </p>
+					 <p>Institutions: [1] Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA [2] Camas High School, Camas, Washington, USA </p>
+		<p><a href="assets/Power_Capping_EESP25_final.pdf">[Presentation slides]</a></p>
+            <li><span class="bold">12:30 p.m. – 12:50 p.m.</span> — <em>"Analysis of Application Power Characteristics Using Performance Counters on A64FX"</em> </li>
+			<p>Authors: <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/person/RXZlbnRQZW9wbGVfMzkwNDUzMjg=" target="_blank"> Ryoma Ohara</a>, Keiji Yamamoto, and Toshihiro Hanawa </p>
+					 <p> Institutions: [1] The University of Tokyo, Japan [2]  R-CCS, RIKEN </p>
+		<p><a href="assets/EESP2025_slide_ohara.pdf">[Presentation slides]</a></p>
+        </ul>
+    </div>
+
+    <div class="time-block"><span class="bold">12:50 p.m. – 1:00 p.m.</span> — Closing remarks</div>
+</section>
+
+
+		<section id="program">
+                <h2>Keynote Speech</h2>
+                    	<table>
+                    		<tr>
+                    			<td style="width: 120px;padding: 7px 0;"><img src="assets/JohnShalf.png" width="100px" style="border-radius:50%"></img></td>
+                    			<td>
+                    				<p style="font-size: 24px; margin-bottom: 5px; padding-bottom: 0px;"><strong style="color: #005f73;">John Shalf</strong></p>
+                    				<p style="margin:0px;">Lawrence Berkeley National Laboratory (LBNL)</p>
+                    			</td>
+                    		</tr>
+                    	</table>
+                    	<p><strong style="color: #222;">Codesign for Energy Efficient Computing</strong></p>
+			<p><strong>Abstract</strong> The rapid growth of AI is driving a hyper-exponential increase in computing demand, with processing needs doubling every three months instead of every two years, far outpacing traditional advancements in energy efficiency. Moore’s Law stagnated in 2005 with the end of Dennard scaling, halting the ability to reduce energy consumption per transistor. Meanwhile, power-hungry GPUs continue to dominate data centers, contributing to an emerging energy crisis. AI’s power consumption is on track to surpass global energy production within a decade. This talk will explore AI's role in this crisis and the shift from general-purpose processors to specialized architectures, including chiplet-based designs, domain-specific accelerators, advanced packaging techniques, and co-integrated systems that combine leading-edge and legacy technologies. These innovations aim to improve energy efficiency and balance performance needs with sustainability in a resource-constrained environment. The talk will provide insights into how HPC can adapt to these industry-wide changes and thrive in a rapidly evolving technological landscape.</p> 
+			
+			<p><strong>BIO</strong> John Shalf is Department Head for Computer Science in the Applied Mathematics and Computational Science Research Division at Lawrence Berkeley National Laboratory (LBNL). He is a coauthor of over 90 publications in the field of parallel computing software and HPC technology, including three best papers and the widely cited report “The Landscape of Parallel Computing Research: A View from Berkeley” (with David Patterson and others). He also coauthored “ExaScale Software Study: Software Challenges in Extreme Scale Systems,” which sets the Defense Advanced Research Project Agency’s (DARPA’s) information technology research investment strategy for the next decade. He was a member of the Berkeley Lab/NERSC team that won a 2002 R&D 100 Award for the RAGE robot. Before joining Berkeley Lab in 2000, Shalf was a research programmer at the National Center for Supercomputing Applications at the University of Illinois and a visiting scientist at the Max-Planck-Institut für Gravitationphysick/Albert Einstein Institute in Potsdam, Germany, where he co-developed the Cactus code framework for computational astrophysics.</p>
+			<br/>
+		</section>
+
+                <section id="organization">
+                    <h2>Workshop General Chair</h2>
+                    <div style="display: flex; align-items: center;">
+                        <img src="assets/Ayesha.jpg" alt="Ayesha Afzal Photo" style="height: 100px; width: auto; border-radius: 50%; margin-right: 15px;">
+                        <p><strong style="color: #005f73;">Ayesha Afzal</strong> - Erlangen National High Performance Computing Center (NHR@FAU)</p>
+                    </div>
+
+                    <h4>Program Co-Chairs</h4>
+                    <ul>
+                        <li>Natalie Bates - Energy Efficient HPC Working Group (EE HPC WG)</li>
+                        <li>Sarah Neuwirth - Johannes Gutenberg University Mainz</li>
+                        <li>Siddhartha Jana - Intel</li>
+                    </ul>
+
+                    <h4>Proceedings Chair</h4>
+                    <p>Radita Liem - RWTH Aachen University</p>
+
+                    <h2 class="theme-color">Program Committee</h2>
+                    <ul>
+                        <li><span style="color: #005f73;">Aditya Deshpande</span> - Samsung Semiconductor, USA</li>  
+                        <li><span style="color: #005f73;">Andy Turner</span> - University of Leeds, England</li>
+                        <li><span style="color: #005f73;">Aleksandar Ilic</span> - University of Lisbon, Portugal</li>
+                        <li><span style="color: #005f73;">Arthur F. Lorenzon</span> - UFRGS, Brazil</li>
+                        <li><span style="color: #005f73;">Bronis De Supinski</span> - Lawrence Livermore National Laboratory, USA</li>
+                        <li><span style="color: #005f73;">Can Hankendi</span> - Boston University, USA</li> 
+                        <li><span style="color: #005f73;">Dirk Pleiter</span> - KTH Royal Institute of Technology, Sweden</li>
+                        <li><span style="color: #005f73;">Diana Goehringer</span> - Technische Universität Dresden, Germany</li>
+                        <li><span style="color: #005f73;">Fumiyoshi Shoji</span> - RIKEN Center for Computational Science, Japan</li>
+                        <li><span style="color: #005f73;">Florina M. Ciorba</span> - University of Basel, Switzerland</li>
+                        <li><span style="color: #005f73;">Gabriel Hautreux</span> - National Computer Center for Higher Education (CINES), France</li>
+                        <li><span style="color: #005f73;">Georg Hager</span> - Regionales Rechenzentrum Erlangen (RRZE), Germany</li>
+                        <li><span style="color: #005f73;">Hatem	Ltaief</span> - King Abdullah University of Science and Technology, Saudi Arabia</li>        
+                        <li><span style="color: #005f73;">Harald Köstler</span> - Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany</li>
+                        <li><span style="color: #005f73;">Kento Sato</span> - RIKEN Center for Computational Science, Japan</li>
+                        <li><span style="color: #005f73;">Markus Diesmann</span> - Forschungszentrum Jülich, Germany</li>  
+                        <li><span style="color: #005f73;">Markus Rampp</span> - Max Planck Computing and Data Facility, Germany</li>
+                        <li><span style="color: #005f73;">Martin Frank</span> - Karlsruhe Institute of Technology, Germany</li>
+                        <li><span style="color: #005f73;">Matthias Maiterth</span> - Oak Ridge National Laboratory, USA</li>
+                        <li><span style="color: #005f73;">Michael Ott</span> - Leibniz Supercomputing Centre, Germany</li>
+                        <li><span style="color: #005f73;">Nathan R. Tallent</span> - Pacific Northwest National Laboratory, USA</li> 
+                        <li><span style="color: #005f73;">Paolo	Bientinesi</span> - Umeå University, Sweden</li>
+                        <li><span style="color: #005f73;">Ralf Schneider</span> - High Performance Computing Center Stuttgart, Germany</li>
+                        <li><span style="color: #005f73;">Radu Prodan</span> - University of Klagenfurt, Austria</li>
+                        <li><span style="color: #005f73;">Raphael Vitti</span> - Lawrence Berkeley National Laboratory, USA</li>
+                        <li><span style="color: #005f73;">Robert Schöne</span> - Technische Universität Dresden, Germany</li>      
+                        <li><span style="color: #005f73;">Roman Wyrzykowski</span> - Czestochowa University of Technology, Poland</li>
+                        <li><span style="color: #005f73;">Ryan E. Grant</span> - Queen's University, Canada</li>
+                        <li><span style="color: #005f73;">Stefano Markidis</span> - KTH Royal Institute of Technology, Sweden</li>
+                        <li><span style="color: #005f73;">Thomas Gruber</span> - Erlangen National High Performance Computing Center, Germany</li>
+                        <li><span style="color: #005f73;">Ondřej Vysocký</span> - IT4Innovations National Supercomputing Center, Czech Republic</li>
+                        <li><span style="color: #005f73;">Zhengji Zhao</span> - Lawrence Berkeley National Laboratory, USA</li>
+                    </ul>
+                    </section>
+
+                    <section id="collaborators">
+                        <h2>Collaborators</h2>
+                        <ul style="list-style-type: none; padding: 0;">
+                            <li style="display: flex; align-items: center; margin: 10px 0;">
+                                <img src="assets/nhr-fau-logo.png" alt="Erlangen National High Performance Computing Center (NHR@FAU) Logo" style="height: 50px; margin-right: 10px;">
+                                <span>Erlangen National High Performance Computing Center (NHR@FAU)</span>
+                            </li>
+                            <li style="display: flex; align-items: center; margin: 10px 0;">
+                                <img src="assets/ee-hpc-wg-logo.png" alt="EE HPC WG Logo" style="height: 50px; margin-right: 10px;">
+                                <span>Energy Efficient HPC Working Group (EE HPC WG) </span>
+                            </li>
+                        </ul>
+                    </section>
+
+
+
+                <section id="contact">
+                    <h2>Contact</h2>
+                    <p>For questions, please contact the General Chair: <strong>Ayesha Afzal</strong> at <a href="mailto:ayesha.afzal@fau.de">ayesha.afzal@fau.de</a>.</p>
+                </section>
+            </div>
+
+            <div style="flex: 1; padding-left: 20px;">
+                <section id="announcements">
+                    <h2>Announcements</h2>
+		<hr>
+			<h3> <a href="https://isc.app.swapcard.com/event/isc-high-performance-2025/planning/UGxhbm5pbmdfMjU4MTc2OA=="> Workshop</a> is happening now in Hall X3 - 1st floor of CONGRESS CENTER HAMBURG!</h3>
+			
+                    <hr>
+<h3>Workshop Program is Updated!</h3>
+<p>
+    John Shalf from Lawrence Berkeley National Laboratory (LBNL) will give the keynote speech on 
+    <em>"Codesign for Energy Efficient Computing"</em>. 
+    Eight papers are accepted after rigorous reviews from our program committee members, with one best paper.
+</p>
+<p>
+    More information about the <a href="index.html#schedule">program</a>.
+</p>
+
+		<hr> <h3>CFP Closed and Keynote Announced!</h3> 
+			<p> The Call for Papers is now closed, and the keynote speech by John Shalf has been announced.</p> <hr>
+                    <h3>Call for Paper Open!</h3>
+                    <p>Submission for EESP 2025 proceedings is open. Check the technical details <a href="#cfp">here</a>.</p> <hr>
+                    <h3>Important Dates</h3>
+                    <ul>
+                        <li>Submission deadline: <del>February 20, 2025</del> <strong>March 2, 2025, AoE (firm)</strong></li>
+                        <li>Notification: April 2, 2025, AoE</li>
+                        <li>Camera ready deadline: May 16, 2025, AoE</li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 EESP Workshop. All Rights Reserved.</p>
+	<p style="font-size: 0.8em;">The <a href="http://ayeshaafzal91.github.io/eesp">EESP25</a> site is maintained by <a href="https://sites.google.com/view/ayesha-afzal">Ayesha Afzal</a>.</p>
+    </footer>
+</body>
+</html>
